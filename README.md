@@ -1,0 +1,4 @@
+- É necessário ter o **XAMPP** instalado no seu computador.
+- No XAMPP o banco foi criado com o nome de **formulario** com as colunas: **nome**, **email**, **mensagem**, **senha**, **data** e **hora**.
+- Use **http://localhost/formulario/** para abrir o formulário
+- Use **http://localhost/formulario/mensagens.php** para abrir a sessão de senha
